@@ -1,4 +1,5 @@
-📺 STC Subscription Automation Task
+📺 STC Subscription Automation Task:
+
 📌 Overview
 
 This project automates the validation of subscription packages (Type, Price, and Currency) across different countries (Saudi Arabia, Kuwait, and Bahrain) for the STC TV Subscription Website
@@ -6,56 +7,57 @@ This project automates the validation of subscription packages (Type, Price, and
 
 The framework is built with:
 
-Java
+  1-Java
 
-Selenium 4
+  2-Selenium 4
 
-TestNG
+  3-TestNG
 
-Page Object Model (POM)
+  4-Page Object Model (POM)
 
-Data-Driven Testing (JSON input)
+  5-Data-Driven Testing (JSON input)
 
-Maven (for build & dependency management)
+  6-Maven (for build & dependency management)
+
 
 
 🧪 Test Scenarios
 
 The automated tests perform the following validations:
 
-Navigate to STC TV Subscription Page
-.
+  Navigate to STC TV Subscription Page.
 
-Switch country (Saudi Arabia, Kuwait, Bahrain).
 
-Validate subscription packages for each country:
+  Switch country (Saudi Arabia, Kuwait, Bahrain).
 
-Package Type (Lite, Classic, Premium)
+  Validate subscription packages for each country:
 
-Price
+      Package Type (Basic, Premium)
 
-Currency
+      Price
+
+      Currency
 
 
 
 ✅ Best Practices Applied
 
-Selenium 4 with WebDriverManager (automatic driver setup).
+    1-Selenium 4 with WebDriverManager (automatic driver setup).
 
-Page Object Model (POM) for maintainability.
+    2-Page Object Model (POM) for maintainability.
 
-Data-Driven Tests with JSON (easy extension to new countries).
+    3-Data-Driven Tests with JSON (easy extension to new countries).
 
-Assertions for package type, price, and currency.
+    4-Assertions for package type, price, and currency.
 
-TestNG Annotations (@BeforeTest, @AfterTest, @DataProvider).
+    5-TestNG Annotations (@BeforeTest, @AfterTest, @DataProvider).
 
 
 
-📌 Requirements
+📌 Requirements:
 
-Java 17+
+    1-Java 17+
 
-Maven 3.8+
+    2-Maven 3.8+
 
-Internet connection (tests run on live website)
+    3-Internet connection (tests run on live website)
