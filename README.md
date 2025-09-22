@@ -1,34 +1,33 @@
 📺 STC Subscription Automation Task:
 
-📌 Overview
+  📌 Overview
 
-This project automates the validation of subscription packages (Type, Price, and Currency) across different countries (Saudi Arabia, Kuwait, and Bahrain) for the STC TV Subscription Website
-.
+      This project automates the validation of subscription packages (Type, Price, and Currency) across different countries (Saudi Arabia, Kuwait, and Bahrain) for the STC TV Subscription Website.
+
 
 The framework is built with:
 
-  1-Java
+    1-Java
 
-  2-Selenium 4
+    2-Selenium 4
 
-  3-TestNG
+    3-TestNG
 
-  4-Page Object Model (POM)
+    4-Page Object Model (POM)
 
-  5-Data-Driven Testing (JSON input)
+    5-Data-Driven Testing (JSON input)
 
-  6-Maven (for build & dependency management)
+    6-Maven (for build & dependency management)
 
 
 
 🧪 Test Scenarios
 
-The automated tests perform the following validations:
+    The automated tests perform the following validations:
 
-  Navigate to STC TV Subscription Page.
+      Navigate to STC TV Subscription Page.
 
-
-  Switch country (Saudi Arabia, Kuwait, Bahrain).
+      Switch country (Saudi Arabia, Kuwait, Bahrain).
 
   Validate subscription packages for each country:
 
