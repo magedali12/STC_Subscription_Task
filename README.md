@@ -19,6 +19,8 @@ The framework is built with:
 
     6-Maven (for build & dependency management)
 
+    7-Extent Reports
+
 
 
 🧪 Test Scenarios
