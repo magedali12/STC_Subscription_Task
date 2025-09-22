@@ -1,0 +1,15 @@
+[
+  {
+    "countryName" : "Kuwait",
+    "basicPackage" : "Basic",
+    "basicVideoQualityFeature" : "Full HD",
+    "basicWatchOnlineFeature" : "X",
+
+    "premiumPackage" : "Premium",
+    "premiumVideoQualityFeature" : "4K",
+    "premiumDeviceAccess" : "Unlimited",
+    "premiumPackagePrice" : "2.5",
+    "premiumPackageCurrency" : "KWD/month"
+
+  }
+]

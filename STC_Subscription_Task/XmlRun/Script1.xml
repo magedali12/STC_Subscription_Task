@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Subscrption_E2E">
+    <test name="ValidatePackagesForAllCountries">
+        <classes>
+            <class name="SubscriptionTest"></class>
+        </classes>
+    </test>
+</suite>

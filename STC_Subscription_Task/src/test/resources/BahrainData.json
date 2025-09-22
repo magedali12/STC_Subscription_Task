@@ -1,0 +1,15 @@
+[
+  {
+    "countryName" : "Bahrain",
+    "basicPackage" : "Basic",
+    "basicVideoQualityFeature" : "Full HD",
+    "basicWatchOnlineFeature" : "X",
+
+    "premiumPackage" : "Premium",
+    "premiumVideoQualityFeature" : "4K",
+    "premiumDeviceAccess" : "Unlimited",
+    "premiumPackagePrice" : "3",
+    "premiumPackageCurrency" : "BHD/month"
+
+  }
+]
